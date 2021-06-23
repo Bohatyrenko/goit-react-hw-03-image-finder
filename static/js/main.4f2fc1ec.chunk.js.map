@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":"oJAAA,wB","file":"static/js/main.4f2fc1ec.chunk.js","sourcesContent":["import React from 'react';\nimport ReactDOM from 'react-dom';\n\nimport 'modern-normalize/modern-normalize.css';\n"],"sourceRoot":""}
